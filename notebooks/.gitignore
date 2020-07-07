@@ -1,3 +1,5 @@
 output/
 .ipynb_checkpoints/
 synthea-with-dependencies.jar
+__pycache__/
+vae_net.py
